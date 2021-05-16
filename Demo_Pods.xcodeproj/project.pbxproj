@@ -83,6 +83,7 @@
 		7D3C8C7C26198F9A00964DBE /* JHDBManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D3C8C7B26198F9A00964DBE /* JHDBManager.m */; };
 		7D3F9EAA261F5BA1000ED0AE /* JHAccountViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D3F9EA9261F5BA1000ED0AE /* JHAccountViewController.m */; };
 		7D3F9EB0261F5C1C000ED0AE /* JHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D3F9EAF261F5C1C000ED0AE /* JHViewController.m */; };
+		7D55FFB4265123AD009D5AFF /* JHTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D55FFB3265123AD009D5AFF /* JHTimer.m */; };
 		7D9BE4FF2619D96F00B5E15A /* NSFileManager+JHChat.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D9BE4FE2619D96F00B5E15A /* NSFileManager+JHChat.m */; };
 		7D9BE51E261A1A0400B5E15A /* JHDBUserStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D9BE51D261A1A0400B5E15A /* JHDBUserStore.m */; };
 		7DAD94C426160E14001949F3 /* JHSDKManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7DAD94C326160E14001949F3 /* JHSDKManager.m */; };
@@ -252,6 +253,8 @@
 		7D3F9EA9261F5BA1000ED0AE /* JHAccountViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHAccountViewController.m; sourceTree = "<group>"; };
 		7D3F9EAE261F5C1C000ED0AE /* JHViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JHViewController.h; sourceTree = "<group>"; };
 		7D3F9EAF261F5C1C000ED0AE /* JHViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHViewController.m; sourceTree = "<group>"; };
+		7D55FFB2265123AD009D5AFF /* JHTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JHTimer.h; sourceTree = "<group>"; };
+		7D55FFB3265123AD009D5AFF /* JHTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHTimer.m; sourceTree = "<group>"; };
 		7D9BE4FD2619D96F00B5E15A /* NSFileManager+JHChat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSFileManager+JHChat.h"; sourceTree = "<group>"; };
 		7D9BE4FE2619D96F00B5E15A /* NSFileManager+JHChat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSFileManager+JHChat.m"; sourceTree = "<group>"; };
 		7D9BE51C261A1A0400B5E15A /* JHDBUserStore.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JHDBUserStore.h; sourceTree = "<group>"; };
@@ -1005,6 +1008,8 @@
 				7D08F070261B14B500EA2DDC /* NetworkUtilities */,
 				7D9BE4F62619D8BC00B5E15A /* DataUtilities */,
 				7D08F077261B5A6B00EA2DDC /* UIUtilities */,
+				7D55FFB2265123AD009D5AFF /* JHTimer.h */,
+				7D55FFB3265123AD009D5AFF /* JHTimer.m */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -1272,6 +1277,7 @@
 				0A7D55F32562B9B50042D5D2 /* JHMediator.m in Sources */,
 				7D3F9EB0261F5C1C000ED0AE /* JHViewController.m in Sources */,
 				7D08F07A261B5ABF00EA2DDC /* UIColor+JHChat.m in Sources */,
+				7D55FFB4265123AD009D5AFF /* JHTimer.m in Sources */,
 				7DAD94E0261616C0001949F3 /* JHUserSetting.m in Sources */,
 				7DAD94D026161588001949F3 /* JHUser.m in Sources */,
 				0A43DEDD25B4578D00E156A4 /* JHChatServer.m in Sources */,
