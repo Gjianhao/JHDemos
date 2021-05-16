@@ -153,6 +153,9 @@ PODS:
     - SQLiteRepairKit (~> 1.2.0)
     - WCDBOptimizedSQLCipher (~> 1.2.0)
   - WCDBOptimizedSQLCipher (1.2.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
   - YYModel (1.0.4)
   - YYText (1.0.7)
   - ZZFLEX (1.2.0):
@@ -178,6 +181,7 @@ DEPENDENCIES:
   - TLTabBarController
   - UMengAnalytics
   - WCDB
+  - YYKit
   - YYModel
   - YYText
   - ZZFLEX (from `https://github.com/tbl00c/ZZFLEX.git`)
@@ -204,6 +208,7 @@ SPEC REPOS:
     - UMengAnalytics
     - WCDB
     - WCDBOptimizedSQLCipher
+    - YYKit
     - YYModel
     - YYText
 
@@ -250,10 +255,11 @@ SPEC CHECKSUMS:
   UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
   WCDB: 8e90babdeb7784c569353a4bd22a66c0a175a882
   WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
   ZZFLEX: 04690b72aeac8ee532c92f2840bc0602c34a1e24
 
-PODFILE CHECKSUM: 536f8872e8144012910dd0303ec24debfd7424ff
+PODFILE CHECKSUM: 0a04034c83f0dfd406af37df78cd478d485dd398
 
 COCOAPODS: 1.10.1

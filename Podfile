@@ -27,6 +27,7 @@ target 'Demo_Pods' do
 #  pod 'JSQMessagesViewController'
   pod 'SocketRocket'
   pod 'YYText'
+  pod 'YYKit'
   pod 'TLTabBarController'
   pod 'MLeaksFinder'
 #  pod 'TLKit'
