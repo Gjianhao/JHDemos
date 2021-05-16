@@ -1,0 +1,259 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - CocoaAsyncSocket (7.6.4)
+  - CocoaLumberjack (3.7.0):
+    - CocoaLumberjack/Core (= 3.7.0)
+  - CocoaLumberjack/Core (3.7.0)
+  - CTMediator (44)
+  - FBRetainCycleDetector (0.1.4)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - JZNavigationExtension (4.0)
+  - Masonry (1.1.0)
+  - MGJRouter (0.10.0)
+  - MJExtension (3.2.4)
+  - MJRefresh (3.5.0)
+  - MLeaksFinder (1.0.0):
+    - FBRetainCycleDetector
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SocketRocket (0.5.1)
+  - SQLiteRepairKit (1.2.2):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - SVProgressHUD (2.2.5)
+  - TLKit (2.0):
+    - TLKit/TLCategories (= 2.0)
+    - TLKit/TLComponents (= 2.0)
+    - TLKit/TLShortcut (= 2.0)
+  - TLKit/TLCategories (2.0):
+    - TLKit/TLCategories/Foundation (= 2.0)
+    - TLKit/TLCategories/UIKit (= 2.0)
+  - TLKit/TLCategories/Foundation (2.0):
+    - TLKit/TLCategories/Foundation/NSArray (= 2.0)
+    - TLKit/TLCategories/Foundation/NSBundle (= 2.0)
+    - TLKit/TLCategories/Foundation/NSData (= 2.0)
+    - TLKit/TLCategories/Foundation/NSDate (= 2.0)
+    - TLKit/TLCategories/Foundation/NSDictionary (= 2.0)
+    - TLKit/TLCategories/Foundation/NSFileManager (= 2.0)
+    - TLKit/TLCategories/Foundation/NSMutableArray (= 2.0)
+    - TLKit/TLCategories/Foundation/NSMutableDictionary (= 2.0)
+    - TLKit/TLCategories/Foundation/NSNotificationCenter (= 2.0)
+    - TLKit/TLCategories/Foundation/NSObject (= 2.0)
+    - TLKit/TLCategories/Foundation/NSString (= 2.0)
+    - TLKit/TLCategories/Foundation/NSTimer (= 2.0)
+    - TLKit/TLCategories/Foundation/NSURL (= 2.0)
+  - TLKit/TLCategories/Foundation/NSArray (2.0)
+  - TLKit/TLCategories/Foundation/NSBundle (2.0)
+  - TLKit/TLCategories/Foundation/NSData (2.0)
+  - TLKit/TLCategories/Foundation/NSDate (2.0)
+  - TLKit/TLCategories/Foundation/NSDictionary (2.0)
+  - TLKit/TLCategories/Foundation/NSFileManager (2.0)
+  - TLKit/TLCategories/Foundation/NSMutableArray (2.0)
+  - TLKit/TLCategories/Foundation/NSMutableDictionary (2.0)
+  - TLKit/TLCategories/Foundation/NSNotificationCenter (2.0)
+  - TLKit/TLCategories/Foundation/NSObject (2.0)
+  - TLKit/TLCategories/Foundation/NSString (2.0):
+    - TLKit/TLCategories/Foundation/NSData
+  - TLKit/TLCategories/Foundation/NSTimer (2.0)
+  - TLKit/TLCategories/Foundation/NSURL (2.0)
+  - TLKit/TLCategories/UIKit (2.0):
+    - TLKit/TLCategories/UIKit/UIAlertView (= 2.0)
+    - TLKit/TLCategories/UIKit/UIBarButtonItem (= 2.0)
+    - TLKit/TLCategories/UIKit/UIButton (= 2.0)
+    - TLKit/TLCategories/UIKit/UICollectionViewCell (= 2.0)
+    - TLKit/TLCategories/UIKit/UIColor (= 2.0)
+    - TLKit/TLCategories/UIKit/UIControl (= 2.0)
+    - TLKit/TLCategories/UIKit/UIImage (= 2.0)
+    - TLKit/TLCategories/UIKit/UINavigationBar (= 2.0)
+    - TLKit/TLCategories/UIKit/UINavigationController (= 2.0)
+    - TLKit/TLCategories/UIKit/UINavigationItem (= 2.0)
+    - TLKit/TLCategories/UIKit/UIScrollView (= 2.0)
+    - TLKit/TLCategories/UIKit/UITabBarController (= 2.0)
+    - TLKit/TLCategories/UIKit/UITextField (= 2.0)
+    - TLKit/TLCategories/UIKit/UITextView (= 2.0)
+    - TLKit/TLCategories/UIKit/UIView (= 2.0)
+    - TLKit/TLCategories/UIKit/UIViewController (= 2.0)
+    - TLKit/TLCategories/UIKit/UIWindow (= 2.0)
+  - TLKit/TLCategories/UIKit/UIAlertView (2.0)
+  - TLKit/TLCategories/UIKit/UIBarButtonItem (2.0)
+  - TLKit/TLCategories/UIKit/UIButton (2.0)
+  - TLKit/TLCategories/UIKit/UICollectionViewCell (2.0)
+  - TLKit/TLCategories/UIKit/UIColor (2.0)
+  - TLKit/TLCategories/UIKit/UIControl (2.0)
+  - TLKit/TLCategories/UIKit/UIImage (2.0)
+  - TLKit/TLCategories/UIKit/UINavigationBar (2.0)
+  - TLKit/TLCategories/UIKit/UINavigationController (2.0)
+  - TLKit/TLCategories/UIKit/UINavigationItem (2.0):
+    - TLKit/TLCategories/UIKit/UIBarButtonItem
+  - TLKit/TLCategories/UIKit/UIScrollView (2.0)
+  - TLKit/TLCategories/UIKit/UITabBarController (2.0)
+  - TLKit/TLCategories/UIKit/UITextField (2.0)
+  - TLKit/TLCategories/UIKit/UITextView (2.0)
+  - TLKit/TLCategories/UIKit/UIView (2.0):
+    - TLKit/TLCategories/Foundation/NSObject
+    - TLKit/TLShortcut
+  - TLKit/TLCategories/UIKit/UIViewController (2.0):
+    - TLKit/TLCategories/UIKit/UIBarButtonItem
+    - TLKit/TLCategories/UIKit/UINavigationController
+    - TLKit/TLCategories/UIKit/UIView
+  - TLKit/TLCategories/UIKit/UIWindow (2.0)
+  - TLKit/TLComponents (2.0):
+    - TLKit/TLComponents/GKCover (= 2.0)
+    - TLKit/TLComponents/RSA (= 2.0)
+    - TLKit/TLComponents/TLActionSheet (= 2.0)
+    - TLKit/TLComponents/TLAlertnateIconManager (= 2.0)
+    - TLKit/TLComponents/TLAlertView (= 2.0)
+    - TLKit/TLComponents/TLAlwaysActivity (= 2.0)
+    - TLKit/TLComponents/TLAppUtility (= 2.0)
+    - TLKit/TLComponents/TLColor (= 2.0)
+    - TLKit/TLComponents/TLLocalPushManager (= 2.0)
+    - TLKit/TLComponents/TLPictureCarouselView (= 2.0)
+    - TLKit/TLComponents/TLStatusBarAlert (= 2.0)
+    - TLKit/TLComponents/TLTheme (= 2.0)
+    - TLKit/TLComponents/TLToast (= 2.0)
+  - TLKit/TLComponents/GKCover (2.0)
+  - TLKit/TLComponents/RSA (2.0)
+  - TLKit/TLComponents/TLActionSheet (2.0)
+  - TLKit/TLComponents/TLAlertnateIconManager (2.0)
+  - TLKit/TLComponents/TLAlertView (2.0)
+  - TLKit/TLComponents/TLAlwaysActivity (2.0)
+  - TLKit/TLComponents/TLAppUtility (2.0)
+  - TLKit/TLComponents/TLColor (2.0):
+    - TLKit/TLCategories/UIKit/UIColor
+    - TLKit/TLComponents/TLTheme
+    - TLKit/TLShortcut
+  - TLKit/TLComponents/TLLocalPushManager (2.0)
+  - TLKit/TLComponents/TLPictureCarouselView (2.0):
+    - TLKit/TLCategories/UIKit/UIScrollView
+  - TLKit/TLComponents/TLStatusBarAlert (2.0)
+  - TLKit/TLComponents/TLTheme (2.0)
+  - TLKit/TLComponents/TLToast (2.0):
+    - SVProgressHUD (~> 2.2.5)
+  - TLKit/TLShortcut (2.0)
+  - TLTabBarController (0.0.1)
+  - UMengAnalytics (4.2.4)
+  - WCDB (1.0.7.5):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+  - ZZFLEX (1.2.0):
+    - Masonry
+
+DEPENDENCIES:
+  - AFNetworking
+  - CocoaAsyncSocket
+  - CocoaLumberjack
+  - CTMediator
+  - FMDB
+  - JZNavigationExtension (from `https://github.com/tbl00c/JZNavigationExtension.git`, tag `4.0`)
+  - Masonry
+  - MGJRouter
+  - MJExtension
+  - MJRefresh
+  - MLeaksFinder
+  - ReactiveObjC (~> 3.1.1)
+  - SDWebImage
+  - SocketRocket
+  - SVProgressHUD
+  - TLKit (from `https://github.com/tbl00c/TLKit.git`)
+  - TLTabBarController
+  - UMengAnalytics
+  - WCDB
+  - YYModel
+  - YYText
+  - ZZFLEX (from `https://github.com/tbl00c/ZZFLEX.git`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - CocoaAsyncSocket
+    - CocoaLumberjack
+    - CTMediator
+    - FBRetainCycleDetector
+    - FMDB
+    - Masonry
+    - MGJRouter
+    - MJExtension
+    - MJRefresh
+    - MLeaksFinder
+    - ReactiveObjC
+    - SDWebImage
+    - SocketRocket
+    - SQLiteRepairKit
+    - SVProgressHUD
+    - TLTabBarController
+    - UMengAnalytics
+    - WCDB
+    - WCDBOptimizedSQLCipher
+    - YYModel
+    - YYText
+
+EXTERNAL SOURCES:
+  JZNavigationExtension:
+    :git: https://github.com/tbl00c/JZNavigationExtension.git
+    :tag: '4.0'
+  TLKit:
+    :git: https://github.com/tbl00c/TLKit.git
+  ZZFLEX:
+    :git: https://github.com/tbl00c/ZZFLEX.git
+
+CHECKOUT OPTIONS:
+  JZNavigationExtension:
+    :git: https://github.com/tbl00c/JZNavigationExtension.git
+    :tag: '4.0'
+  TLKit:
+    :commit: 81df5b5438f0df1c2f39a8f485bc9836d3f1bcd5
+    :git: https://github.com/tbl00c/TLKit.git
+  ZZFLEX:
+    :commit: ab99c9c21e367c89c2c196589c468f6f1f3e5013
+    :git: https://github.com/tbl00c/ZZFLEX.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  CocoaLumberjack: e8955b9d337ac307103b0a34fd141c32f27e53c5
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+  FBRetainCycleDetector: 46f8179bbb1c587deee3ea838a1a3ee02acf5015
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  JZNavigationExtension: 0eada2d9158259bbb3152d13fbcf58b7d2dd3d01
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+  MJExtension: 88e0900751b6cac8de1cf724ca9838a0b28d5acb
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  MLeaksFinder: 8c435bd2f6d070af18cff082b503b21adc130fc0
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SQLiteRepairKit: 35aaae5a8838adb85f5b1eb4d796055be6060a4b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TLKit: 8f9b86c0ffa2d1eff72b3fa4a70f6c3bc14d24eb
+  TLTabBarController: 149a3df6517408d72e506c4c578b6758744e9251
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+  WCDB: 8e90babdeb7784c569353a4bd22a66c0a175a882
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+  ZZFLEX: 04690b72aeac8ee532c92f2840bc0602c34a1e24
+
+PODFILE CHECKSUM: 536f8872e8144012910dd0303ec24debfd7424ff
+
+COCOAPODS: 1.10.1
